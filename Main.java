@@ -1,3 +1,3 @@
 public class main{
-	private String name;
+	private String name;	//name
 }
